@@ -8,6 +8,7 @@ namespace AppForGithub
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("hello");
+            Console.WriteLine("hello my world");
         }
     }
 }
